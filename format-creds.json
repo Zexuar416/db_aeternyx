@@ -1,10 +1,11 @@
 {
   "AETERNYX": {
     "format": "Test Exp",
-    "exp": "2023-01-30T17:00:00Z",
+    "exp": "2026-01-30T17:00:00Z",
     "files": [
-      "creds1.json",
-      "creds2.json"
+      "creds.json",
+      "creds.json",
+      "creds.json"
     ]
   },
   "TOKENBAPAKLU": {
