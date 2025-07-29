@@ -1,0 +1,17 @@
+{
+  "AETERNYX": {
+    "format": "Test Exp",
+    "exp": "2023-01-30T17:00:00Z",
+    "files": [
+      "creds1.json",
+      "creds2.json"
+    ]
+  },
+  "TOKENBAPAKLU": {
+    "format": "I Am QudXanV",
+    "exp": "2025-08-01T00:00:00Z",
+    "files": [
+      "creds.json"
+    ]
+  }
+}
