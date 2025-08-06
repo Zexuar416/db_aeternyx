@@ -1,9 +1,24 @@
 {
   "users": [
-    { "username": "qudxanv", "password": "secure123" }
+    {
+      "username": "qudxanv",
+      "password": "secure123"
+    }
   ],
   "devices": [
-    { "deviceId": "abcd1234xyz", "username": "qudxanv", "active": true }
+    {
+      "deviceId": "abcd1234xyz",
+      "username": "qudxanv",
+      "active": true
+    },
+    {
+      "deviceId": "8b713f328f1e",
+      "username": "qudxanv",
+      "active": true
+    }
   ],
-  "tokens": ["abc123xyz", "trial098abc"]
+  "tokens": [
+    "abc123xyz",
+    "trial098abc"
+  ]
 }
