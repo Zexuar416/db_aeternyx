@@ -5,6 +5,12 @@
       "password": "secure12345-"
     }
   ],
-  "devices": [],
+  "devices": [
+    {
+      "deviceId": "8b713f328f1e",
+      "username": "qudxanv",
+      "active": true
+    }
+  ],
   "tokens": []
 }
