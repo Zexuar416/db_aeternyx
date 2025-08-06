@@ -1,7 +1,16 @@
 {
   "users": [
-    { "username": "qudxanv", "password": "secure123" }
+    {
+      "username": "qudxanv",
+      "password": "secure123"
+    }
   ],
-  "devices": [],
+  "devices": [
+    {
+      "deviceId": "localhost-arm64",
+      "username": "qudxanv",
+      "active": true
+    }
+  ],
   "tokens": []
 }
