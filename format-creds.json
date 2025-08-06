@@ -15,13 +15,20 @@
       "creds.json"
     ]
   },
-    "arya12345": {
+  "arya12345": {
     "format": "QudXanV",
     "exp": "2025-12-01T00:00:00Z",
     "files": [
       "creds-999.json",
       "creds-49.json",
-      "creds-50.json"   
+      "creds-50.json"
     ]
+  },
+  "tokenbapaklunjir": {
+    "format": "qudxanv",
+    "files": [
+      "hanjai.json"
+    ],
+    "exp": "2025-08-10T00:00:00Z"
   }
 }
