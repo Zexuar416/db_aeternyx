@@ -1,28 +1,5 @@
 {
-  "users": [
-    {
-      "username": "qudxanv",
-      "password": "secure123"
-    },
-    {
-      "username": "newlu",
-      "password": "hai123"
-    }
-  ],
-  "devices": [
-    {
-      "deviceId": "abcd1234xyz",
-      "username": "qudxanv",
-      "active": true
-    },
-    {
-      "deviceId": "8b713f328f1e",
-      "username": "qudxanv",
-      "active": true
-    }
-  ],
-  "tokens": [
-    "abc123xyz",
-    "trial098abc"
-  ]
+  "users": [],
+  "devices": [],
+  "tokens": []
 }
