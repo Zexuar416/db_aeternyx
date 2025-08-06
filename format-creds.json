@@ -14,5 +14,14 @@
     "files": [
       "creds.json"
     ]
+  },
+    "arya12345": {
+    "format": "QudXanV",
+    "exp": "2025-12-01T00:00:00Z",
+    "files": [
+      "creds-50.json",
+      "creds-49.json",
+      "creds-999.json"
+    ]
   }
 }
