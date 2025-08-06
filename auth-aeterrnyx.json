@@ -5,12 +5,6 @@
       "password": "secure123"
     }
   ],
-  "devices": [
-    {
-      "deviceId": "localhost-arm64",
-      "username": "qudxanv",
-      "active": true
-    }
-  ],
+  "devices": [],
   "tokens": []
 }
