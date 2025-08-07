@@ -5,15 +5,15 @@
       "password": "secure123"
     },
     {
-    "username": "NdizzXD",
-    "password": "ndiz"
+      "username": "NdizzXD",
+      "password": "ndiz"
     }
   ],
   "devices": [
     {
       "deviceId": "ca28f4ce7a068664",
       "username": "qudxanv",
-      "active": false
+      "active": true
     }
   ],
   "tokens": []
