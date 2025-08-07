@@ -183,6 +183,14 @@
       "action": "Deteksi spam",
       "detail": "IP 36.68.55.209 melakukan spam dalam 60s",
       "time": "2025-08-07T07:07:54.068Z"
+    },
+    {
+      "user": "Unknown",
+      "deviceId": "4975ef098be791fd",
+      "ip": "110.136.15.100",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-07T07:55:55.418Z"
     }
   ]
 }
