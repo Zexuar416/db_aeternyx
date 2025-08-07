@@ -759,6 +759,14 @@
       "action": "Sedang Menambahkan Token",
       "detail": "-",
       "time": "2025-08-07T12:24:40.226Z"
+    },
+    {
+      "user": "qudxanv",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Berhasil Menambahkan token",
+      "detail": "𐌵𐌿𐌳 ✦ 𐌷𐌰𐌽𐍅𐌴𐍂𐌹𐌿𐍃",
+      "time": "2025-08-07T12:27:03.686Z"
     }
   ]
 }
