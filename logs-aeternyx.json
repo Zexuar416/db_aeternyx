@@ -191,6 +191,14 @@
       "action": "Mencoba Login",
       "detail": "-",
       "time": "2025-08-07T07:55:55.418Z"
+    },
+    {
+      "user": "NdizzXD",
+      "deviceId": "4975ef098be791fd",
+      "ip": "110.136.15.100",
+      "action": "Login Berhasil",
+      "detail": "-",
+      "time": "2025-08-07T07:56:07.700Z"
     }
   ]
 }
