@@ -535,6 +535,14 @@
       "action": "Mencoba Login",
       "detail": "-",
       "time": "2025-08-07T12:17:55.638Z"
+    },
+    {
+      "user": "Unknown",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-07T12:18:20.725Z"
     }
   ]
 }
