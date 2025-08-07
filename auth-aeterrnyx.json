@@ -11,10 +11,6 @@
     {
       "username": "obe",
       "password": "obe123"
-    },
-    {
-      "username": "aldy",
-      "password": "thisfree"
     }
   ],
   "devices": [
@@ -31,11 +27,6 @@
     {
       "deviceId": "4975ef098be791fd",
       "username": "NdizzXD",
-      "active": true
-    },
-    {
-      "deviceId": "c8d375ac2a78ef9c",
-      "username": "aldy",
       "active": true
     }
   ],
