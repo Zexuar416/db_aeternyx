@@ -119,6 +119,14 @@
       "action": "Berhasil Menambahkan PIN",
       "detail": "-",
       "time": "2025-08-07T07:06:40.919Z"
+    },
+    {
+      "user": "qudxanv",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Log Out",
+      "detail": "-",
+      "time": "2025-08-07T07:06:47.546Z"
     }
   ]
 }
