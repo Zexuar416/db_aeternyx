@@ -311,6 +311,14 @@
       "action": "Melihat List Token",
       "detail": "-",
       "time": "2025-08-07T08:38:15.300Z"
+    },
+    {
+      "user": "qudxanv",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Deteksi spam",
+      "detail": "IP 36.68.55.209 melakukan spam dalam 60s",
+      "time": "2025-08-07T08:38:22.167Z"
     }
   ]
 }
