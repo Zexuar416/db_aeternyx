@@ -399,6 +399,14 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-07T09:55:31.199Z"
+    },
+    {
+      "user": "qudxanv",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Log Out",
+      "detail": "-",
+      "time": "2025-08-07T10:07:58.181Z"
     }
   ]
 }
