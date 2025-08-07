@@ -551,6 +551,14 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-07T12:18:46.692Z"
+    },
+    {
+      "user": "qudxanv",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "23.251.121.103",
+      "action": "Deteksi VPN/Proxy",
+      "detail": "IP 23.251.121.103 menggunakan proxy/hosting/mobile",
+      "time": "2025-08-07T12:19:54.455Z"
     }
   ]
 }
