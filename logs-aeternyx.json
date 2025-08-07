@@ -39,6 +39,14 @@
       "action": "Sedang Delete Token",
       "detail": "-",
       "time": "2025-08-07T06:52:43.605Z"
+    },
+    {
+      "user": "qudxanv",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Berhasil Delete token",
+      "detail": "628",
+      "time": "2025-08-07T06:52:54.926Z"
     }
   ]
 }
