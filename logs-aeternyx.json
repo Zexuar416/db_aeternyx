@@ -351,6 +351,14 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-07T08:52:39.931Z"
+    },
+    {
+      "user": "NdizzXD",
+      "deviceId": "4975ef098be791fd",
+      "ip": "110.136.15.100",
+      "action": "Menambahkan PIN",
+      "detail": "-",
+      "time": "2025-08-07T09:21:30.473Z"
     }
   ]
 }
