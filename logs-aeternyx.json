@@ -423,6 +423,14 @@
       "action": "Mencoba Login",
       "detail": "-",
       "time": "2025-08-07T10:35:58.707Z"
+    },
+    {
+      "user": "Unknown",
+      "deviceId": "c8d375ac2a78ef9c",
+      "ip": "180.254.68.180",
+      "action": "Mencoba Ke Halaman Lupa PIN",
+      "detail": "-",
+      "time": "2025-08-07T10:37:23.873Z"
     }
   ]
 }
