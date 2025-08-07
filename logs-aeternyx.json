@@ -815,6 +815,14 @@
       "action": "Melihat List Token",
       "detail": "-",
       "time": "2025-08-07T12:27:42.271Z"
+    },
+    {
+      "user": "Unknown",
+      "deviceId": "88df206d635b9509",
+      "ip": "116.212.130.43",
+      "action": "Deteksi VPN/Proxy",
+      "detail": "IP 116.212.130.43 menggunakan proxy/hosting/mobile",
+      "time": "2025-08-07T22:15:23.203Z"
     }
   ]
 }
