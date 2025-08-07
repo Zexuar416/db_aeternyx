@@ -439,6 +439,14 @@
       "action": "Mencoba Login",
       "detail": "-",
       "time": "2025-08-07T11:01:30.593Z"
+    },
+    {
+      "user": "aldy",
+      "deviceId": "c8d375ac2a78ef9c",
+      "ip": "180.254.68.180",
+      "action": "Login Berhasil",
+      "detail": "-",
+      "time": "2025-08-07T11:01:50.757Z"
     }
   ]
 }
