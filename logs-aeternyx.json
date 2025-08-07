@@ -79,6 +79,14 @@
       "action": "Mencoba Ke Halaman Lupa PIN",
       "detail": "-",
       "time": "2025-08-07T06:55:00.339Z"
+    },
+    {
+      "user": "qudxanv",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "128.1.190.186",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-07T06:58:42.830Z"
     }
   ]
 }
