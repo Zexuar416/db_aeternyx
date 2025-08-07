@@ -55,6 +55,14 @@
       "action": "Melihat List Token",
       "detail": "-",
       "time": "2025-08-07T06:53:14.019Z"
+    },
+    {
+      "user": "qudxanv",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "128.1.190.186",
+      "action": "Sedang Menambahkan Token",
+      "detail": "-",
+      "time": "2025-08-07T06:54:26.298Z"
     }
   ]
 }
