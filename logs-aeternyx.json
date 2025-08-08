@@ -1473,6 +1473,15 @@
       "action": "Sedang Delete Token",
       "detail": "-",
       "time": "2025-08-08T09:12:37.789Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Berhasil Delete token",
+      "detail": "safeIsVPN",
+      "time": "2025-08-08T09:12:42.307Z"
     }
   ]
 }
