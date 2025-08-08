@@ -831,6 +831,14 @@
       "action": "Deteksi VPN/Proxy",
       "detail": "IP 116.212.130.43 menggunakan proxy/hosting/mobile",
       "time": "2025-08-07T22:18:36.683Z"
+    },
+    {
+      "user": "Unknown",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-08T04:23:58.006Z"
     }
   ]
 }
