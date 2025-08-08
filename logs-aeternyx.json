@@ -1464,6 +1464,15 @@
       "action": "Melihat List Token",
       "detail": "-",
       "time": "2025-08-08T09:12:28.075Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Sedang Delete Token",
+      "detail": "-",
+      "time": "2025-08-08T09:12:37.789Z"
     }
   ]
 }
