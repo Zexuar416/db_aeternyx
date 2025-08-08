@@ -1572,6 +1572,15 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-08T09:29:35.304Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Menghapus User",
+      "detail": "-",
+      "time": "2025-08-08T09:29:51.404Z"
     }
   ]
 }
