@@ -2,7 +2,8 @@
   "users": [
     {
       "username": "qudxanv",
-      "password": "secure123"
+      "password": "secure123",
+      "role": "owner"
     },
     {
       "username": "NdizzXD",
