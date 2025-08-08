@@ -871,6 +871,14 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-08T04:31:01.596Z"
+    },
+    {
+      "user": "qudxanv",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Melihat List Token",
+      "detail": "-",
+      "time": "2025-08-08T04:31:13.794Z"
     }
   ]
 }
