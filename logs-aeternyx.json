@@ -1033,6 +1033,15 @@
       "action": "Log Out",
       "detail": "-",
       "time": "2025-08-08T06:12:17.910Z"
+    },
+    {
+      "user": "Unknown",
+      "role": "Unknown",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-08T06:12:37.922Z"
     }
   ]
 }
