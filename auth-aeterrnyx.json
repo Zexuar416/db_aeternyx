@@ -18,11 +18,6 @@
     {
       "username": "arya",
       "password": "arya123456"
-    },
-    {
-      "username": "didi",
-      "password": "hadianto123",
-      "role": "reseller"
     }
   ],
   "devices": [
