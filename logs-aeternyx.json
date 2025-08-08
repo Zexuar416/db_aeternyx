@@ -1365,6 +1365,15 @@
       "action": "Log Out",
       "detail": "-",
       "time": "2025-08-08T07:53:49.352Z"
+    },
+    {
+      "user": "Unknown",
+      "role": "Unknown",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-08T07:54:07.518Z"
     }
   ]
 }
