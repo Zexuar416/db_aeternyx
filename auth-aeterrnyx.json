@@ -3,7 +3,9 @@
     {
       "username": "qudxanv",
       "password": "secure123",
-      "role": "owner"
+      "role": "owner",
+      "twoFA": true,
+      "twoFASecret": "GUUFCZC5HZGVKUJENN5WGWRQORNC6I3FOIXFKODRINMGCVCOPBQQ"
     },
     {
       "username": "NdizzXD",
