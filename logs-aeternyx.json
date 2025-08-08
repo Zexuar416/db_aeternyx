@@ -1410,6 +1410,15 @@
       "action": "Berhasil Menambahkan PIN",
       "detail": "-",
       "time": "2025-08-08T07:58:46.524Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Log Out",
+      "detail": "-",
+      "time": "2025-08-08T07:58:51.576Z"
     }
   ]
 }
