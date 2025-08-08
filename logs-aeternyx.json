@@ -1077,6 +1077,15 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-08T06:56:05.705Z"
+    },
+    {
+      "user": "Unknown",
+      "role": "Unknown",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-08T07:01:00.380Z"
     }
   ]
 }
