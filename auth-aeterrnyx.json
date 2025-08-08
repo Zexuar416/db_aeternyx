@@ -18,6 +18,11 @@
     {
       "username": "arya",
       "password": "arya123456"
+    },
+    {
+      "username": "didi",
+      "password": "didi123",
+      "role": "owner"
     }
   ],
   "devices": [
