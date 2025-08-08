@@ -887,6 +887,14 @@
       "action": "Blokir IP 27.109.114.147 karena terdeteksi VPN/Proxy",
       "detail": "-",
       "time": "2025-08-08T05:06:34.514Z"
+    },
+    {
+      "user": "Unknown",
+      "deviceId": "88df206d635b9509",
+      "ip": "27.109.114.147",
+      "action": "Blokir IP 27.109.114.147 karena terdeteksi VPN/Proxy",
+      "detail": "-",
+      "time": "2025-08-08T05:06:47.364Z"
     }
   ]
 }
