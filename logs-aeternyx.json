@@ -1095,6 +1095,15 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-08T07:01:13.106Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Menghapus PIN",
+      "detail": "-",
+      "time": "2025-08-08T07:01:26.402Z"
     }
   ]
 }
