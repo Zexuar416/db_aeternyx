@@ -1634,6 +1634,14 @@
       "action": "Melewati check VPN untuk IP 116.212.130.43 (whitelist)",
       "detail": "-",
       "time": "2025-08-08T13:42:15.124Z"
+    },
+    {
+      "user": "arya",
+      "deviceId": "88df206d635b9509",
+      "ip": "116.212.130.43",
+      "action": "Melihat List Token",
+      "detail": "-",
+      "time": "2025-08-08T13:42:17.256Z"
     }
   ]
 }
