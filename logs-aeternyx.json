@@ -1158,6 +1158,15 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-08T07:08:42.703Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.55.209",
+      "action": "Sedang Menambahkan Token",
+      "detail": "-",
+      "time": "2025-08-08T07:09:03.833Z"
     }
   ]
 }
