@@ -903,6 +903,14 @@
       "action": "Mencoba Login",
       "detail": "-",
       "time": "2025-08-08T05:34:34.565Z"
+    },
+    {
+      "user": "arya",
+      "deviceId": "88df206d635b9509",
+      "ip": "119.13.56.50",
+      "action": "Login Berhasil",
+      "detail": "-",
+      "time": "2025-08-08T05:36:09.774Z"
     }
   ]
 }
