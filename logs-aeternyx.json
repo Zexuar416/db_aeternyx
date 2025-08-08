@@ -911,6 +911,14 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-08T05:36:09.774Z"
+    },
+    {
+      "user": "arya",
+      "deviceId": "88df206d635b9509",
+      "ip": "119.13.56.50",
+      "action": "Sedang Menambahkan Token",
+      "detail": "-",
+      "time": "2025-08-08T05:39:40.544Z"
     }
   ]
 }
