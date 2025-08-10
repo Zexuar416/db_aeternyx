@@ -1714,6 +1714,15 @@
       "action": "Mencoba Login",
       "detail": "-",
       "time": "2025-08-10T00:47:41.317Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.54.155",
+      "action": "Login Berhasil",
+      "detail": "-",
+      "time": "2025-08-10T00:47:49.618Z"
     }
   ]
 }
