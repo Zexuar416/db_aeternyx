@@ -1739,6 +1739,14 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-10T12:24:40.098Z"
+    },
+    {
+      "user": "NdizzXD",
+      "deviceId": "4975ef098be791fd",
+      "ip": "110.136.58.181",
+      "action": "Sedang Menambahkan Token",
+      "detail": "-",
+      "time": "2025-08-10T12:24:49.686Z"
     }
   ]
 }
