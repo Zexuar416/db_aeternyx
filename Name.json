@@ -1,0 +1,8 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "role": "admin",
+    "expired": "2025-08-30"
+  }
+]
