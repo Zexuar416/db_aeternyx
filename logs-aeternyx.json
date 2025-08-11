@@ -1779,6 +1779,14 @@
       "action": "Berhasil Menambahkan token",
       "detail": "7988492654:AAGCIobjQfh_LzEYbtJgpsE7D2V7_qrTnYA",
       "time": "2025-08-11T04:00:37.942Z"
+    },
+    {
+      "user": "arya",
+      "deviceId": "88df206d635b9509",
+      "ip": "119.13.56.50",
+      "action": "Sedang Menambahkan Token",
+      "detail": "-",
+      "time": "2025-08-11T04:00:45.676Z"
     }
   ]
 }
