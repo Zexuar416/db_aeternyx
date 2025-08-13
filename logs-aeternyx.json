@@ -1897,6 +1897,15 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-13T10:08:45.692Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.53.216",
+      "action": "Mengupload File ke GitHub",
+      "detail": "-",
+      "time": "2025-08-13T10:08:51.146Z"
     }
   ]
 }
