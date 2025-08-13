@@ -1870,6 +1870,15 @@
       "action": "Mengupload File ke GitHub",
       "detail": "-",
       "time": "2025-08-13T10:06:51.520Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.53.216",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-13T10:08:25.029Z"
     }
   ]
 }
