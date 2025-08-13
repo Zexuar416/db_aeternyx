@@ -1811,6 +1811,14 @@
       "action": "Berhasil Menambahkan token",
       "detail": "8088974436:AAGEFUagKaRL3VvM-aUz2mNmlhuRBiWsDlQ",
       "time": "2025-08-11T04:01:17.926Z"
+    },
+    {
+      "user": "Unknown",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.53.216",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-13T08:01:24.888Z"
     }
   ]
 }
