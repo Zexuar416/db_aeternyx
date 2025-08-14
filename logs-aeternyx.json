@@ -1906,6 +1906,15 @@
       "action": "Mengupload File ke GitHub",
       "detail": "-",
       "time": "2025-08-13T10:08:51.146Z"
+    },
+    {
+      "user": "Unknown",
+      "role": "Unknown",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.53.216",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-14T13:03:09.126Z"
     }
   ]
 }
