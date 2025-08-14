@@ -21,6 +21,11 @@
       "username": "didi",
       "password": "didi123",
       "role": "owner"
+    },
+    {
+      "username": "uuu",
+      "password": "uuu",
+      "role": "moderator"
     }
   ],
   "devices": [
