@@ -2005,6 +2005,15 @@
       "action": "Sedang Menambahkan Token",
       "detail": "-",
       "time": "2025-08-16T04:16:33.608Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.53.107",
+      "action": "Berhasil Menambahkan token",
+      "detail": "7975143101:AAEQofxOHUSbd4CHZc3dJW3TUsY7AJgOLPw",
+      "time": "2025-08-16T04:16:44.264Z"
     }
   ]
 }
