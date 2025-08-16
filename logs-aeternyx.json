@@ -1996,6 +1996,15 @@
       "action": "Login Berhasil",
       "detail": "-",
       "time": "2025-08-16T04:16:17.374Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.53.107",
+      "action": "Sedang Menambahkan Token",
+      "detail": "-",
+      "time": "2025-08-16T04:16:33.608Z"
     }
   ]
 }
