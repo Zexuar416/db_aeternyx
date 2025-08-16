@@ -1987,6 +1987,15 @@
       "action": "Mencoba Login",
       "detail": "-",
       "time": "2025-08-16T04:15:47.213Z"
+    },
+    {
+      "user": "qudxanv",
+      "role": "owner",
+      "deviceId": "ca28f4ce7a068664",
+      "ip": "36.68.53.107",
+      "action": "Login Berhasil",
+      "detail": "-",
+      "time": "2025-08-16T04:16:17.374Z"
     }
   ]
 }
