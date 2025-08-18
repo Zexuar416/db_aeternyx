@@ -2022,6 +2022,14 @@
       "action": "Mencoba Login",
       "detail": "-",
       "time": "2025-08-18T03:34:47.448Z"
+    },
+    {
+      "user": "NdizzXD",
+      "deviceId": "4975ef098be791fd",
+      "ip": "36.70.36.65",
+      "action": "Login Berhasil",
+      "detail": "-",
+      "time": "2025-08-18T03:35:06.081Z"
     }
   ]
 }
