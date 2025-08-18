@@ -2014,6 +2014,14 @@
       "action": "Berhasil Menambahkan token",
       "detail": "7975143101:AAEQofxOHUSbd4CHZc3dJW3TUsY7AJgOLPw",
       "time": "2025-08-16T04:16:44.264Z"
+    },
+    {
+      "user": "Unknown",
+      "deviceId": "4975ef098be791fd",
+      "ip": "36.70.36.65",
+      "action": "Mencoba Login",
+      "detail": "-",
+      "time": "2025-08-18T03:34:47.448Z"
     }
   ]
 }
