@@ -2038,6 +2038,14 @@
       "action": "Sedang Menambahkan Token",
       "detail": "-",
       "time": "2025-08-18T03:35:18.186Z"
+    },
+    {
+      "user": "NdizzXD",
+      "deviceId": "4975ef098be791fd",
+      "ip": "36.70.36.65",
+      "action": "Berhasil Menambahkan token",
+      "detail": "8106031310:AAGAAT82adv-ftgP_YfSlxCOo0NpGASu6sw",
+      "time": "2025-08-18T03:35:29.446Z"
     }
   ]
 }
